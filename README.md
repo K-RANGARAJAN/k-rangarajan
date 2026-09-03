@@ -1,119 +1,82 @@
-<!-- ===================== INTRO ===================== -->
+<h1 align="center">Hi 👋, I'm Rangarajan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Rangarajan" alt="Hi, I'm Rangarajan" />
-</p>
-
-<p align="center">
-  A passionate Developer and Student
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Electronics+and+Computer+engineering&repeat=false" alt="Electronics and Computer engineering" />
 </p>
 
 <p align="center">
-  Electronics and Computer Engineering
-</p>
-
-
-<!-- ===================== PROGRAMMING ===================== -->
-
-<h2>💻 Programming Languages</h2>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
-</p>
-
-
-<!-- ===================== FRONTEND ===================== -->
-
-<h2>🎨 Frontend & Mobile</h2>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45" height="45" alt="Android"/>
-</p>
-
-
-<!-- ===================== BACKEND ===================== -->
-
-<h2>⚙️ Backend & Databases</h2>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
-</p>
-
-
-<!-- ===================== AI / ML ===================== -->
-
-<h2>🤖 AI / ML & Data Science</h2>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
-</p>
-
-
-<!-- ===================== CLOUD / TOOLS ===================== -->
-
-<h2>☁️ Cloud & Tools</h2>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
-</p>
-
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages"/>
-</p>
-
-
-<!-- ===================== ACTIVITY ===================== -->
-
-<h2>🔥 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-rangarajan&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity"/>
-</p>
-
-
-<!-- ===================== SOCIALS ===================== -->
-
-<h2>🌐 Connect With Me</h2>
-
-<p>
-  <a href="https://x.com/rangzz10">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <a href="mailto:krangarajan0115@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail" />
   </a>
-
-  <a href="https://www.linkedin.com/in/rangarajan-k-a44809320/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A77B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rangarajan-k-a44809320/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
   </a>
-
-  <a href="mailto:krangarajan0115@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/rangzz10" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/EEEEEE" width="36" height="36" alt="X" />
   </a>
-
-  <a href="https://instagram.com/_.rxngzz._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/_.rxngzz._" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" height="36" alt="Instagram" />
   </a>
+</p>
+
+<br/>
+
+## About Me
+
+I'm an Electronics and Computer Engineering student who enjoys building things end-to-end, from low-level fundamentals to full working systems. My interests center around:
+
+- Artificial Intelligence & Machine Learning
+- Computer Vision
+- Computer Networks
+- Software Development
+- Building systems from scratch
+
+<br/>
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,mysql,pytorch,tensorflow" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=opencv,sklearn,react,nodejs,androidstudio,git,github,linux,vscode" />
+</p>
+
+<br/>
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=k-rangarajan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="k-rangarajan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-rangarajan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/k-rangarajan?label=Followers&style=for-the-badge&logo=github&color=36BCF7&labelColor=0d1117" alt="Followers" />
+</p>
+
+<br/>
+
+## Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=k-rangarajan&theme=tokyonight&hide_border=true" alt="k-rangarajan's contribution streak" />
+</p>
+
+<br/>
+
+## 3D Contribution Profile
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/k-rangarajan/k-rangarajan/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution profile" />
+</p>
+
+<br/>
+
+---
+
+<p align="center">
+  <i>Build it. Break it. Understand it. Build it better.</i>
 </p>
