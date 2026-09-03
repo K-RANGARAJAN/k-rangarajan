@@ -75,6 +75,17 @@ I'm an Electronics and Computer Engineering student who enjoys building things e
 
 <br/>
 
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k-rangarajan/k-rangarajan/main/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k-rangarajan/k-rangarajan/main/dist/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/k-rangarajan/k-rangarajan/main/dist/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  </picture>
+</p>
+
+<br/>
 ---
 
 <p align="center">
