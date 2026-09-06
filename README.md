@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/k-rangarajan/k-rangarajan/main/assets/banner.svg" alt="Rangarajan" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rangarajan</h1>
 
 <p align="center">
@@ -6,19 +10,16 @@
 
 <p align="center">
   <a href="mailto:krangarajan0115@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rangarajan-k-a44809320/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/rangzz10" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/EEEEEE" width="36" height="36" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/_.rxngzz._" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" height="36" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -38,10 +39,24 @@ I'm an Electronics and Computer Engineering student who enjoys building things e
 
 ## Tech Stack
 
+<p align="center"><img src="https://img.shields.io/badge/Languages-1b2440?style=flat" alt="Languages" /></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,mysql,pytorch,tensorflow" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=opencv,sklearn,react,nodejs,androidstudio,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+</p>
+
+<p align="center"><img src="https://img.shields.io/badge/Web%20%26%20Frontend-1b2440?style=flat" alt="Web & Frontend" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+<p align="center"><img src="https://img.shields.io/badge/ML%20%26%20Data-1b2440?style=flat" alt="ML & Data" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,mysql" />
+</p>
+
+<p align="center"><img src="https://img.shields.io/badge/Tools%20%26%20Platforms-1b2440?style=flat" alt="Tools & Platforms" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,linux,vscode" />
 </p>
 
 <br/>
@@ -49,8 +64,8 @@ I'm an Electronics and Computer Engineering student who enjoys building things e
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=k-rangarajan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="k-rangarajan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-rangarajan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k-rangarajan&theme=github_dark" alt="k-rangarajan's GitHub stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k-rangarajan&theme=github_dark" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -86,6 +101,7 @@ I'm an Electronics and Computer Engineering student who enjoys building things e
 </p>
 
 <br/>
+
 ---
 
 <p align="center">

@@ -1,0 +1,19 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rangarajan">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b2440" />
+      <stop offset="55%" stop-color="#334370" />
+      <stop offset="100%" stop-color="#5470ad" />
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.25" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)" />
+
+  <path d="M0,190 C 220,150 420,230 700,195 C 900,170 1040,205 1200,180 L1200,260 L0,260 Z" fill="url(#wave)" />
+
+  <text x="600" y="150" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="86" font-weight="700" fill="#e9edfb" letter-spacing="2">RK</text>
+</svg>
